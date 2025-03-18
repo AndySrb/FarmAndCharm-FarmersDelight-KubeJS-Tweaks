@@ -31,7 +31,7 @@ This repository contains a **KubeJS script** that integrates **Farm And Charm** 
 ❓ May require adjustments if using additional farming-related mods.  
 
 ## 📜 License  
-This project is open-source under the **MIT License**. Feel free to modify and share!  
+This project is open-source under the **GPL-3.0 license**. Feel free to modify and share!  
 
 ## 🤝 Contributing  
 Pull requests and suggestions are welcome! Open an issue if you find any bugs or conflicts.  
