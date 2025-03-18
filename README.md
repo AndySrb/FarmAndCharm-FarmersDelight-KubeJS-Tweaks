@@ -5,7 +5,7 @@ This repository contains a **KubeJS script** that integrates **Farm And Charm** 
 
 ## 🔧 Features  
 - Enhanced crop & food interactions between **Farm And Charm** and **Farmer's Delight**.  
-- Custom recipes to ensure better balance and synergy.  
+- Fixing recipes to ensure better balance and synergy.  
 - Tweaked loot tables, cooking mechanics, and farming behavior.  
 - Additional quality-of-life improvements for a seamless experience.  
 
